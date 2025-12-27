@@ -1,18 +1,26 @@
 
 # 👋 Hi, I'm Franco!  
-👨‍💻 Hello there! I'm Franco Miño, an enthusiastic Full Stack Developer, although I specialize mainly in backend development. I received my training as a Full Stack Web Developer at Henry in February 2022. 💻🤓
+👨‍💻 Hello, my name is Franco Miño, and I am a Full Stack Developer with a strong specialization in backend development. I completed my formal training as a Full Stack Web Developer at Henry in February 2022.
 
-🏢 During my time at the startup Henry SA, I had the opportunity to be part of the team that initiated the development of a robust examination system. We implemented a bi-weekly exam schedule using agile methodologies and unit testing to ensure continuous improvement and reliability. While I didn't lead the team, my colleagues and I were able to bring continuous improvements to the system. Additionally, I contributed to optimizing evaluation processes for students during their lab stages.
+You may notice that at the beginning of 2025, I became actively involved again in trainee-, junior-, and semi-senior–level projects. This decision was made with the purpose of demonstrating and strengthening my technical skill set, as in recent years my professional roles have been primarily focused on teaching, tutoring, and mentoring individuals across different age groups.
+
+While these experiences have allowed me to develop strong communication and leadership skills, my objective is to clearly showcase that my technical competencies are solid, continuously improving, and aligned with industry standards. For this reason, my main professional challenge for 2025 is to fully dedicate myself to software development, deepening my involvement in the software engineering ecosystem as a whole. 💻🤓
+
+🏢 I have professional experience collaborating across multiple functional areas, actively participating in continuous improvement discussions and implementing enhancements at the end of each work cycle (Q1, Q2, Q3, etc.). This approach has allowed me to integrate perspectives from different domains into a single project and to identify assertive improvements aimed at scaling complex processes efficiently.
+
+Throughout this journey, I have continuously learned from my peers, a process I am genuinely proud to have been part of. In parallel, and with the objective of further strengthening my communication skills and teaching approach, I currently work as a tutor for children, adolescents, and pre-adolescents, where I teach the fundamentals of programming.
+
+These experiences have shaped me into a solution-oriented professional, capable of integrating into cross-functional teams, actively listening, sharing knowledge, and learning from others to achieve a common goal. As a result, you will find that throughout 2025, I am committed to developing multiple software projects in order to expand, demonstrate, and continuously refine my technical skill set.
 
 
-📚 I have a strong background in software development, with a specialized focus on backend and a solid understanding of frontend. I'm passionate about crafting efficient and scalable solutions in the backend, while also having a keen interest in frontend development. My goal is to continue honing my skills as a backend developer while remaining adaptable to frontend challenges. I have acquired a robust understanding of design patterns and software architecture, applying these principles to create reliable and scalable solutions. While my primary focus lies in backend development, where I can deliver comprehensive and effective solutions, I also have experience in frontend, particularly with React and Next, enabling me to make significant contributions in that domain when needed.
+📚 My public projects showcase the technologies I have implemented, the development processes I followed, and the steps required to run them locally. They include practical usage of TypeScript, React, Zustand, Docker, NestJS, PostgreSQL, MongoDB, and Next.js.
 
-💡 My main goal is to continue growing as a professional, gaining more experience and knowledge in both backend and frontend development.
+💡 My main goal is to continue growing as a professional, acquiring deeper experience and knowledge in both technical and soft skills.
 
 # 🌐 Language
 
 - **English:** Reading proficiency in technical English
-
+- **Español:** Nativo
 
 ---
 
